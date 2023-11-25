@@ -1,7 +1,6 @@
 #include "albert/albert.h"
 #include "albert/extension/queryhandler/standarditem.h"
 #include "plugin.h"
-#include <QLocale>
 #include <boost/uuid/uuid.hpp>
 #include <boost/uuid/uuid_generators.hpp>
 #include <boost/uuid/uuid_io.hpp>
